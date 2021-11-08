@@ -1,2 +1,0 @@
-dodać informacje do commita np. „Create main_remote.txt” i/lub dodatkowe
-informacje „Ad dan optional extended d
